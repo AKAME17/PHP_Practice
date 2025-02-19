@@ -1,0 +1,3 @@
+[submodule "part2/PHP_Practice"]
+	path = part2/PHP_Practice
+	url = https://github.com/AKAME17/PHP_Practice.git
