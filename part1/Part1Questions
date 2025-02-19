@@ -1,0 +1,60 @@
+Question number 1: What is the Output of print_r($person);?
+Answer:
+Person Object ( [name] => Alice [age] => 25 )
+
+Question number 2: What is the output of var_dump($person);?
+Answer: 
+object(Person)#1 (2) { ["name"]=> string(5) "Alice" ["age"]=> int(25) }
+
+Question number 3:
+Answer: 
+float(10.5)
+
+Question number 4: what character is used too concatenate strings?
+Answer:
+ dot (.)
+
+Question number 5: What is the output of echo Host;? 
+Answer: 
+localhost
+
+Question numeber 6: how will you define in PHP the variable PI with value 3.1416
+Answer: 
+define("PI", 3.1416);
+
+Question number 7: What is the output of $numbers[3] + $numbers[4];? 
+Answer: 
+9 
+
+Question number 8: What is the output of echo $colors[3]:?
+Answer:
+Error
+
+Question number 9: What are the Keys in $person Array?
+Answer:
+"first_name"
+"last_name"
+"age"
+
+Quedstion number 10: In PHP, how will you change the green into white in $colors
+Answer:
+$colors[2] = 'white';
+
+Question number 11: What is the output of echo $hex['red]; 
+Answer:
+#f00
+
+Question number 12: What is the output of echo $matrix [1][2];?
+
+Answer:
+6
+Question number 13: what is the output of echo$people[0]['first_name];?
+Answer: 
+'Maeve'
+
+Question number 14: What is the output of echo $people[2]['email];?
+Answer:
+'jane@gamil.com'
+
+Question 15: What is the output of var_dump($chunkedArray);?
+Answer: 
